@@ -1,0 +1,153 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/624225e7189050fbd672b4bd.624225e954f326d1a9e91404.fDNjfI5.hcp.png");
+
+@font-face {
+  font-family: "DeterminationMono Web-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/determinationmono_web-regular.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.path-1 {
+  height: 84px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 1920px;
+}
+
+.rectangle-9 {
+  background-color: var(--white);
+  height: 51px;
+  left: 1720px;
+  position: absolute;
+  top: 37px;
+  width: 52px;
+}
+
+.rectangle-11 {
+  background-color: var(--white);
+  height: 51px;
+  left: 1858px;
+  position: absolute;
+  top: 38px;
+  width: 52px;
+}
+
+.rectangle-10 {
+  background-color: var(--white);
+  height: 51px;
+  left: 1789px;
+  position: absolute;
+  top: 37px;
+  width: 52px;
+}
+
+.rectangle-8 {
+  background-color: var(--silver);
+  height: 51px;
+  left: 1717px;
+  position: absolute;
+  top: 35px;
+  width: 52px;
+}
+
+.title {
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 97px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.layer1 {
+  background-image: url(../img/path1185-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 70px;
+  left: 14px;
+  position: absolute;
+  top: 25px;
+  width: 69px;
+}
+
+.rectangle-12 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.path {
+  height: 84px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 1920px;
+}
+
+.rectangle-5 {
+  background-color: var(--silver);
+  height: 51px;
+  left: 1786px;
+  position: absolute;
+  top: 35px;
+  width: 52px;
+}
+
+.overlap-group-item {
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 97px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.rectangle-14 {
+  background: linear-gradient(90deg, #0089ff 0%, #002c80 100%);
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1866px;
+}

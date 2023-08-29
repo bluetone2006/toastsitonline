@@ -1,0 +1,284 @@
+/* screen - socials */
+
+.socials {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    height: 3950px;
+    width: 1920px;
+  }
+  
+  .socials .overlap-group-container {
+    height: 3762px;
+    margin-top: -1px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .socials .overlap-group {
+    height: 3762px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .socials .rectangle-1-1 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 3744px;
+    left: 0;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+  }
+  
+  .socials .rectangle-2-1 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 3744px;
+    left: 1893px;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+  }
+  
+  .socials .rectangle {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 99px;
+    width: 1920px;
+  }
+  
+  .socials .rectangle-1 {
+    background-color: var(--white);
+    height: 51px;
+    left: 1720px;
+    position: absolute;
+    top: 37px;
+    width: 52px;
+  }
+  
+  .socials .rectangle-2 {
+    background-color: var(--white);
+    height: 51px;
+    left: 1858px;
+    position: absolute;
+    top: 38px;
+    width: 52px;
+  }
+  
+  .socials .rectangle-3 {
+    background-color: var(--silver);
+    height: 51px;
+    left: 1855px;
+    position: absolute;
+    top: 35px;
+    width: 52px;
+  }
+  
+  .socials .rectangle-4 {
+    background-color: var(--white);
+    height: 51px;
+    left: 1789px;
+    position: absolute;
+    top: 37px;
+    width: 52px;
+  }
+  
+  .socials .rectangle-6 {
+    background-color: var(--silver);
+    height: 51px;
+    left: 1717px;
+    position: absolute;
+    top: 35px;
+    width: 52px;
+  }
+  
+  .socials .line {
+    height: 40px;
+    left: 1861px;
+    top: 40px;
+    width: 41px;
+  }
+  
+  .socials .line-1 {
+    height: 39px;
+    left: 1862px;
+    top: 40px;
+    width: 39px;
+  }
+  
+  .socials .line-2 {
+    height: 39px;
+    left: 1792px;
+    top: 42px;
+    width: 4px;
+  }
+  
+  .socials .line-3 {
+    height: 39px;
+    left: 1829px;
+    top: 42px;
+    width: 4px;
+  }
+  
+  .socials .line-4 {
+    height: 4px;
+    left: 1794px;
+    top: 42px;
+    width: 37px;
+  }
+  
+  .socials .line-5 {
+    height: 4px;
+    left: 1794px;
+    top: 77px;
+    width: 37px;
+  }
+  
+  .socials .line-6 {
+    height: 4px;
+    left: 1725px;
+    top: 75px;
+    width: 37px;
+  }
+  
+  .socials .rectangle-7 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .socials .rectangle-17 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 3740px;
+    width: 1920px;
+  }
+  
+  .socials .overlap-group1 {
+    height: 3619px;
+    left: 27px;
+    position: absolute;
+    top: 121px;
+    width: 1866px;
+  }
+  
+  .socials .rectangle-13 {
+    background: linear-gradient(178.9deg, #1c0080 52.82%, #000000 99.03%);
+    height: 1802px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1866px;
+  }
+  
+  .socials .you-tube-bluetone_ {
+    left: 267px;
+    top: 416px;
+  }
+  
+  .socials .socials-1 {
+    left: 816px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .socials .other-stuff {
+    left: 1254px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 3px;
+    white-space: nowrap;
+  }
+  
+  .socials .rectangle-26 {
+    background: linear-gradient(179.45deg, #1c0080 52.88%, #000000 99.75%);
+    height: 3619px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1866px;
+  }
+  
+  .socials .you-tube-bluetoasts {
+    left: 215px;
+    top: 419px;
+  }
+  
+  .socials .place-1 {
+    cursor: pointer;
+  }
+  
+  .socials .about-1 {
+    cursor: pointer;
+  }
+  
+  .socials .other-stuff-1 {
+    cursor: pointer;
+    left: 1254px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 3px;
+    white-space: nowrap;
+  }
+  
+  .socials .rectangle-63 {
+    background-color: var(--white);
+    height: 185px;
+    width: 1920px;
+  }
+  
+  .socials .about-2 {
+    left: 409px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .socials .line-7 {
+    object-fit: cover;
+    position: absolute;
+  }
+  
+  .socials .place-2 {
+    left: 73px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .socials .you-tube {
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    white-space: nowrap;
+  }
+  

@@ -1,0 +1,222 @@
+/* screen - home */
+
+.home {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    height: 1944px;
+    width: 1920px;
+  }
+  
+  .home .overlap-group-container {
+    height: 1945px;
+    margin-top: -1px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .home .overlap-group {
+    height: 1945px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .home .rectangle-1 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 1927px;
+    left: 0;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+  }
+  
+  .home .rectangle-2 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 1927px;
+    left: 1893px;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+  }
+  
+  .home .rectangle-3 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 1923px;
+    width: 1920px;
+  }
+  
+  .home .rectangle-4 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 99px;
+    width: 1920px;
+  }
+  
+  .home .rectangle-6 {
+    background-color: var(--silver);
+    height: 51px;
+    left: 1855px;
+    position: absolute;
+    top: 35px;
+    width: 52px;
+  }
+  
+  .home .rectangle-7 {
+    background-color: var(--silver);
+    height: 51px;
+    left: 1786px;
+    position: absolute;
+    top: 35px;
+    width: 52px;
+  }
+  
+  .home .line-1 {
+    height: 40px;
+    left: 1861px;
+    top: 40px;
+    width: 41px;
+  }
+  
+  .home .line-2 {
+    height: 39px;
+    left: 1862px;
+    top: 40px;
+    width: 39px;
+  }
+  
+  .home .line-3 {
+    height: 39px;
+    left: 1792px;
+    top: 42px;
+    width: 4px;
+  }
+  
+  .home .line-4 {
+    height: 39px;
+    left: 1829px;
+    top: 42px;
+    width: 4px;
+  }
+  
+  .home .line-5 {
+    height: 4px;
+    left: 1794px;
+    top: 42px;
+    width: 37px;
+  }
+  
+  .home .line-6 {
+    height: 4px;
+    left: 1794px;
+    top: 77px;
+    width: 37px;
+  }
+  
+  .home .line-7 {
+    height: 4px;
+    left: 1725px;
+    top: 75px;
+    width: 37px;
+  }
+  
+  .home .overlap-group1 {
+    align-items: center;
+    background: linear-gradient(178.9deg, #1c0080 52.82%, #000000 99.03%);
+    display: flex;
+    flex-direction: column;
+    left: 27px;
+    min-height: 1802px;
+    position: absolute;
+    top: 121px;
+    width: 1866px;
+  }
+  
+  .home .overlap-group2 {
+    height: 106px;
+    position: relative;
+    width: 1866px;
+  }
+  
+  .home .place {
+    color: #ffff00;
+    font-family: var(--font-family-determinationmono_web-regular);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    left: 73px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .home .about {
+    cursor: pointer;
+    left: 409px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .home .socials {
+    cursor: pointer;
+    left: 816px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .home .other-stuff {
+    cursor: pointer;
+    left: 1254px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 3px;
+    white-space: nowrap;
+  }
+  
+  .home .hello-and-welcome-t {
+    letter-spacing: 0;
+    line-height: 97px;
+    margin-left: 2.0px;
+    margin-top: 354px;
+    min-height: 398px;
+    min-width: 1554px;
+    white-space: nowrap;
+  }
+  
+  .home .buttons {
+    letter-spacing: 0;
+    line-height: 97px;
+    margin-left: 108.0px;
+    margin-top: 604px;
+    min-height: 101px;
+    min-width: 342px;
+    white-space: nowrap;
+  }
+  
+  .home .line {
+    object-fit: cover;
+    position: absolute;
+  }
+  

@@ -1,0 +1,27 @@
+:root { 
+    --alto: #dbdbdb;
+    --dove-gray: #707070;
+    --lemon-glacier: #f9ff00;
+    --silver: #c0c0c0;
+    --white: #ffffff;
+   
+    --font-size-m: 97px;
+   
+    --font-family-determinationmono_web-regular: "DeterminationMono Web-Regular", Helvetica;
+  }
+  .determinationmonoweb-regular-normal-white-97px {
+    color: var(--white);
+    font-family: var(--font-family-determinationmono_web-regular);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .determinationmonoweb-regular-normal-lemon-glacier-97px {
+    color: var(--lemon-glacier);
+    font-family: var(--font-family-determinationmono_web-regular);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  

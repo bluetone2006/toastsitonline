@@ -1,0 +1,37 @@
+/* screen - chat */
+
+.chat {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    height: 3950px;
+    width: 1920px;
+  }
+  
+  .chat .overlap-group {
+    align-items: center;
+    background: linear-gradient(179.48deg, #1c0080 52.88%, #000000 99.78%);
+    display: flex;
+    gap: 43px;
+    height: 3938px;
+    min-width: 1920px;
+    padding: 25px 42px;
+  }
+  
+  .chat .place {
+    align-self: flex-end;
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 97px;
+    min-height: 101px;
+    min-width: 196px;
+    white-space: nowrap;
+  }
+  
+  .chat .rectangle-54 {
+    background-color: var(--white);
+    height: 1222px;
+    margin-top: 12.0px;
+    width: 1359px;
+  }
+  

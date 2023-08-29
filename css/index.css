@@ -1,0 +1,254 @@
+/* screen - index */
+
+.index {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 3950px;
+    width: 1920px;
+  }
+  
+  .index .overlap-group-container {
+    height: 3766px;
+    margin-top: -1px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .index .overlap-group1 {
+    height: 3766px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .index .rectangle-1 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 3748px;
+    left: 0;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+  }
+  
+  .index .rectangle-2 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 3748px;
+    left: 1893px;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+  }
+  
+  .index .rectangle-3 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 3744px;
+    width: 1920px;
+  }
+  
+  .index .rectangle-4 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 99px;
+    width: 1920px;
+  }
+  
+  .index .rectangle-6 {
+    background-color: var(--silver);
+    height: 51px;
+    left: 1855px;
+    position: absolute;
+    top: 35px;
+    width: 52px;
+  }
+  
+  .index .rectangle-7 {
+    background-color: var(--silver);
+    height: 51px;
+    left: 1786px;
+    position: absolute;
+    top: 35px;
+    width: 52px;
+  }
+  
+  .index .line-1 {
+    height: 40px;
+    left: 1861px;
+    top: 40px;
+    width: 41px;
+  }
+  
+  .index .line-2 {
+    height: 39px;
+    left: 1862px;
+    top: 40px;
+    width: 39px;
+  }
+  
+  .index .line-3 {
+    height: 39px;
+    left: 1792px;
+    top: 42px;
+    width: 4px;
+  }
+  
+  .index .line-4 {
+    height: 39px;
+    left: 1829px;
+    top: 42px;
+    width: 4px;
+  }
+  
+  .index .line-5 {
+    height: 4px;
+    left: 1794px;
+    top: 42px;
+    width: 37px;
+  }
+  
+  .index .line-6 {
+    height: 4px;
+    left: 1794px;
+    top: 77px;
+    width: 37px;
+  }
+  
+  .index .line-7 {
+    height: 4px;
+    left: 1725px;
+    top: 75px;
+    width: 37px;
+  }
+  
+  .index .overlap-group {
+    align-items: center;
+    background: linear-gradient(179.45deg, #1c0080 52.88%, #000000 99.76%);
+    display: flex;
+    flex-direction: column;
+    left: 27px;
+    min-height: 3623px;
+    padding: 3px 73px;
+    position: absolute;
+    top: 121px;
+    width: 1866px;
+  }
+  
+  .index .flex-row {
+    align-items: flex-end;
+    align-self: flex-start;
+    display: flex;
+    height: 103px;
+    min-width: 1717px;
+  }
+  
+  .index .place {
+    color: #ffff00;
+    font-family: var(--font-family-determinationmono_web-regular);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 97px;
+    min-height: 101px;
+    min-width: 196px;
+    white-space: nowrap;
+  }
+  
+  .index .about {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 97px;
+    margin-left: 140px;
+    min-height: 101px;
+    min-width: 245px;
+    white-space: nowrap;
+  }
+  
+  .index .socials {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 97px;
+    margin-left: 162px;
+    min-height: 101px;
+    min-width: 342px;
+    white-space: nowrap;
+  }
+  
+  .index .other-stuff {
+    align-self: flex-start;
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 97px;
+    margin-left: 96px;
+    min-height: 101px;
+    white-space: nowrap;
+  }
+  
+  .index .hello-and-welcome-t {
+    letter-spacing: 0;
+    line-height: 97px;
+    margin-left: 2.0px;
+    margin-top: 363px;
+    min-height: 398px;
+    min-width: 1554px;
+    white-space: nowrap;
+  }
+  
+  .index .buttons {
+    letter-spacing: 0;
+    line-height: 97px;
+    margin-left: 2.0px;
+    margin-top: 2389px;
+    min-height: 101px;
+    min-width: 342px;
+    white-space: nowrap;
+  }
+  
+  .index .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 38px;
+    margin-top: 25px;
+    min-width: 340px;
+  }
+  
+  .index .rectangle {
+    background-image: url(https://cdn.animaapp.com/projects/64172880cecc71696e421af4/files/bluetoneonlinebutton.gif);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 6px;
+    height: 31px;
+    width: 88px;
+  }
+  
+  .index .path-5 {
+    height: 31px;
+    object-fit: cover;
+    width: 88px;
+  }
+  
+  .index .rectangle-61 {
+    background-color: var(--white);
+    height: 185px;
+    width: 1920px;
+  }
+  
+  .index .line {
+    object-fit: cover;
+    position: absolute;
+  }
+  

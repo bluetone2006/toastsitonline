@@ -1,0 +1,230 @@
+/* screen - other-stuff */
+
+.other-stuff {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    height: 3950px;
+    width: 1920px;
+  }
+  
+  .other-stuff .overlap-group {
+    height: 3760px;
+    margin-top: -1px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .other-stuff .rectangle-1-1 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 3742px;
+    left: 0;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+  }
+  
+  .other-stuff .rectangle-2-1 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 3742px;
+    left: 1893px;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+  }
+  
+  .other-stuff .rectangle {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 99px;
+    width: 1920px;
+  }
+  
+  .other-stuff .rectangle-1 {
+    background-color: var(--white);
+    height: 51px;
+    left: 1720px;
+    position: absolute;
+    top: 37px;
+    width: 52px;
+  }
+  
+  .other-stuff .rectangle-2 {
+    background-color: var(--white);
+    height: 51px;
+    left: 1858px;
+    position: absolute;
+    top: 38px;
+    width: 52px;
+  }
+  
+  .other-stuff .rectangle-3 {
+    background-color: var(--silver);
+    height: 51px;
+    left: 1855px;
+    position: absolute;
+    top: 35px;
+    width: 52px;
+  }
+  
+  .other-stuff .rectangle-4 {
+    background-color: var(--white);
+    height: 51px;
+    left: 1789px;
+    position: absolute;
+    top: 37px;
+    width: 52px;
+  }
+  
+  .other-stuff .rectangle-6 {
+    background-color: var(--silver);
+    height: 51px;
+    left: 1717px;
+    position: absolute;
+    top: 35px;
+    width: 52px;
+  }
+  
+  .other-stuff .line {
+    height: 40px;
+    left: 1861px;
+    object-fit: cover;
+    position: absolute;
+    top: 40px;
+    width: 41px;
+  }
+  
+  .other-stuff .line-1 {
+    height: 39px;
+    left: 1862px;
+    top: 40px;
+    width: 39px;
+  }
+  
+  .other-stuff .line-2 {
+    height: 39px;
+    left: 1792px;
+    top: 42px;
+    width: 4px;
+  }
+  
+  .other-stuff .line-3 {
+    height: 39px;
+    left: 1829px;
+    top: 42px;
+    width: 4px;
+  }
+  
+  .other-stuff .line-4 {
+    height: 4px;
+    left: 1794px;
+    top: 42px;
+    width: 37px;
+  }
+  
+  .other-stuff .line-5 {
+    height: 4px;
+    left: 1794px;
+    top: 77px;
+    width: 37px;
+  }
+  
+  .other-stuff .line-6 {
+    height: 4px;
+    left: 1725px;
+    top: 75px;
+    width: 37px;
+  }
+  
+  .other-stuff .rectangle-7 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .other-stuff .rectangle-13 {
+    background: linear-gradient(179.45deg, #1c0080 52.88%, #000000 99.76%);
+    height: 3628px;
+    left: 27px;
+    position: absolute;
+    top: 121px;
+    width: 1866px;
+  }
+  
+  .other-stuff .place {
+    cursor: pointer;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 126px;
+    white-space: nowrap;
+  }
+  
+  .other-stuff .about {
+    cursor: pointer;
+    left: 436px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 126px;
+    white-space: nowrap;
+  }
+  
+  .other-stuff .socials {
+    cursor: pointer;
+    left: 843px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 126px;
+    white-space: nowrap;
+  }
+  
+  .other-stuff .other-stuff-1 {
+    left: 1281px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 124px;
+    white-space: nowrap;
+  }
+  
+  .other-stuff .rectangle-43 {
+    background-color: var(--alto);
+    border: 1px solid;
+    border-color: var(--dove-gray);
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 3738px;
+    width: 1920px;
+  }
+  
+  .other-stuff .sign-our-guestbook {
+    left: 294px;
+    letter-spacing: 0;
+    line-height: 97px;
+    position: absolute;
+    top: 538px;
+    white-space: nowrap;
+  }
+  
+  .other-stuff .line-7 {
+    object-fit: cover;
+    position: absolute;
+  }
+  
